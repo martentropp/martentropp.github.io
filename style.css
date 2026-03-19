@@ -152,8 +152,20 @@ img { max-width: 100%; display: block; }
   font-size: clamp(1.75rem, 3vw, 2.25rem);
   font-weight: 700;
   letter-spacing: -0.03em;
-  margin-bottom: 52px;
+  margin-bottom: 12px;
   color: var(--text);
+}
+
+.section-note {
+  font-size: 0.875rem;
+  color: var(--text-muted);
+  margin-bottom: 40px;
+}
+
+.section-note a {
+  color: var(--text-muted);
+  text-decoration: underline;
+  text-underline-offset: 3px;
 }
 
 /* =========================================================
