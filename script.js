@@ -1,5 +1,5 @@
 /* =========================================================
-   Theme toggle — system preference → localStorage override
+   Theme toggle — system preference -> localStorage override
    ========================================================= */
 const html   = document.documentElement;
 const toggle = document.getElementById('themeToggle');
